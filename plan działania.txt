@@ -1,0 +1,15 @@
+1. stworzyæ ogólny zarys fabu³y aby wiedzieæ na czym stoimy; dziêki temu wybierzemy design graficzny.
+Równolegle programista mo¿e tworzyæ system komponentów - abstrakcja która zaaplikuje siê do ka¿dego z tych systemów
+
+2. po wybraniu konkretnego designu, programista bêdzie potrzebowa³ du¿o czasu aby stworzyæ szkielet gry
+
+3. maj¹c szkielet do którego mo¿na dodawaæ ju¿ tylko content, nale¿y napisaæ szczegó³owy skrypt
+
+4. realizacja skryptu: tworzenie kontentu i implementacja skryptu mog¹ dziaæ siê równolegle; 
+tutaj przypada nagrywanie g³osów i robienie zdjêæ
+
+5. tworzenie epilogu: nagrywanie kamer¹, robienie zdjêæ, nagranie narracji
+
+6. gdy wszystko gotowe, intensywne testy
+
+7. premiera
