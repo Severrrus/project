@@ -1,5 +1,84 @@
+Na co powinien po³o¿yæ nacisk scenarzysta g³ówny:
+- dobranie konkretnych postaci do konkretnych ról (chyba ¿e wymienione tu zosta³o konkretne imiê)
+- napisanie dialogów
+- logiczne powi¹zanie wszystkiego i unikanie niespójnoœci
+- proponowanie nowych misji
+
 FABU£A NIE MUSI BYÆ REALISTYCZNA!
 £atwiej jest napisaæ grê z fajerwerkami w fabule, mo¿e byæ œmiesznie, mo¿e byæ zupe³na fantastyka.
 
-- misja z Suderem który ma tylko paralizator i musi wykonaæ jakieœ zadanie,
- mo¿e parali¿owaæ ale nie mo¿e zostaæ zauwa¿ony bo jego reputacja jest najwa¿niejsza
+pierwsza misja: jesteœ jakimœ nowym uczniem, nie masz nic w ekwipunku, musisz chodziæ po szkole, czasem kogoœ o coœ spytaæ
+i coœ zebraæ (np. plan lekcji, œci¹gi)
+
+co chwila jesteœ kimœ innym ale wszystkie ekwipunki i osi¹gniêcia przenosz¹ siê na t¹ now¹ osobê
+
+polecenie: "wyjdŸ ze szko³y aby zakoñczyæ dzieñ"
+
+Dni mijaj¹. [Postaæ siê zmienia na kogoœ innego]
+Tu mo¿e jakieœ minigierki ze œci¹ganiem na sprawdzianie, œci¹gi trzeba kupiæ.
+
+Zauwa¿asz ¿e jest kilku nauczycieli tyranów przez których wymagania nie mamy zupe³nie czasu dla siebie.
+Dzia³aj¹ ponad prawem, nie przestrzegaj¹ statutu.
+
+Suder, podwójny agent wci¹ga kilka osób w klasie w konspiracjê.
+Zwierza ci siê ¿e gdy siedzi w nocy w kanciapie s³yszy jakieœ dziwne dŸwiêki na korytarzach, 
+mimo ¿e wtedy nikt oprócz niego nie ma prawa byæ w szkole. Daje ci zadanie - musisz kolejnej nocy byæ razem z nim i gdy zaczn¹ siê dŸwiêki,
+wyjœæ z kanciapy i poszukaæ ich Ÿród³a. Suder nie mo¿e traciæ reputacji - w razie gdyby to by³ któryœ z nauczycieli i mia³ jakiœ niecny plan,
+bêd¹c skonfrontowanym przez Sudera móg³by zaniechaæ z nim wspó³pracy a wiêc stracilibyœmy wtykê.
+Wychodzisz i musisz szukaæ po ca³ej pi¹tce Ÿród³a tajemniczego dŸwiêku.
+
+Niewiarygodne - to Æwioro/Bieñkowski/inny "Tyran" który mia³ jakieœ tam niecne plany, mo¿e majstrowa³ w jakichœ dokumentach.
+Niestety wyczu³(a) nasz¹ obecnoœæ i uciek³(a), ale nie zna naszej to¿samoœci.
+
+Od teraz jesteœmy w konspiracji przeciwko temu nauczycielowi.
+
+Dni mijaj¹.
+
+[teraz jesteœ którymœ z klasowych geeków, np. którymœ z Janków]
+Jesteœ po jakimœ kó³ku matematycznym wiêc jest póŸno, nie ma nikogo w szkole poza prowadz¹cym i kilkoma innymi geekami.
+Ktoœ ciê zaczepia i mówi ¿e Suder chce siê z tob¹ widzieæ w kanciapie.
+Idziesz tam i dowiadujesz siê ¿e nasz groŸny "Tyran" jest tu gdzieœ na terenie szko³y w pomieszczeniu X. 
+Wyruszasz tym razem z Suderem u boku który ma dwa paralizatory, jeden daje tobie.
+
+Na trzy wchodzicie z hukiem do pomieszczenia X. Niestety naszego "Tyrana" ju¿ tutaj nie ma.
+Suder mówi ¿ebyœ wróci³ z nim do kanciapy, mówi ¿e powinniœmy ciê uzbroiæ w razie czego.
+W tym momencie pokazuje ci drugie dno kanciapy (patrz: mikroprzestrzeñ - kanciapa (na samym dole))
+Dostajesz jakieœ podstawowe bronie, no¿e.
+
+Inne koncepcje misji które mo¿naby gdzieœ wpleœæ:
+
+- misja z Francuzem który jest na wycieczce i musi siê przemkn¹æ przez nauczycieli - stra¿ników. 
+Ma do dyspozycji puste butelki po wódce którymi mo¿e rzucaæ by odwróciæ czyj¹œ uwagê. 
+Zaczyna w pokoju na najwy¿szym piêtrze i ktoœ wysy³a mu wiadomoœæ przez pager, ¿e czeka na niego na zewn¹trz.
+
+- misja z Suderem który mo¿e u¿ywaæ tylko paralizatora i musi wykonaæ jakieœ zadanie,
+ mo¿e parali¿owaæ ale nie mo¿e zostaæ zauwa¿ony bo jego reputacja jest najwa¿niejsza.
+
+
+Mikroprzestrzenie:
+
+Dziedziniec: uczniowie handluj¹ jakimiœ taktycznymi przedmiotami w zamian za jedzenie czy inne dobra.
+Soundtrack: Michael McCann - Detroit Marketplace 
+https://www.youtube.com/watch?v=vMKwRVtPVaw
+
+Kanciapa: w œrodku s¹ tajne drzwi do olbrzymiego pomieszczenia gdzie wci¹ga siê koks, tañcz¹ dziwki i leci ta muza:
+http://www.youtube.com/watch?v=dxaSQWEa61Y
+Œwiat³a, kolorowe dymy, nerdy siedz¹ przy komputerach razem z dziwkami.
+Jest te¿ bar z drinkami, rola barmana mo¿e byæ œmieszna tutaj.
+Suder (w jego nieobecnoœæ inny kanciapowiec) otoczony laskami sprzedaje tam broñ i amunicjê.
+Jakiœ komentarz bohatera - "to ju¿ wiem dlaczego tak d³ugo siedzisz w szkole".
+
+Sala biologiczna:
+Soundtrack: Michael McCann - Limb Clinic
+https://www.youtube.com/watch?v=5YQPydQnaoo
+Mo¿e tu bêdzie jakaœ walka z bossem.
+
+Najni¿sze piêtro:
+Soundtrack: Michael McCann - The Mole
+http://www.youtube.com/watch?v=r8EUJGmYudo
+
+Górne korytarze pi¹tki:
+Soundtrack pierwszej misji: Michael McCann - Home
+http://www.youtube.com/watch?v=bg65PdZhoUI
+Soundtrack ka¿dej kolejnej: Michael McCann - Detroit City Ambient
+https://www.youtube.com/watch?v=42xHkfucwS8
